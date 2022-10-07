@@ -2,7 +2,7 @@
 
 # Site Settings
 title: David Gallegos Site
-url: 'http://www.david.gallegos.com'
+#url: 'http://www.david.gallegos.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
