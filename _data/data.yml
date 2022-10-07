@@ -1,0 +1,309 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: David Gallegos Pajares
+    tagline: Tech & Product Business Builder
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dgalpaj@gmail.com
+    phone: 
+    website: www.david.gallegos.com #do not add http://
+    linkedin: david-gallegos-pajares-ab5118b
+    xing: 
+    github: dgalpaj
+    telegram: DavidG # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: dgalpaj
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: dgalpaj
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://www.david.gallegos.com/David%20Gallegos%20Resume.pdf
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Travelling
+        link:
+        desc: keep calm & open mind
+
+      - item: Handball
+        link:
+        desc: hard team work
+
+      - item: Motorbikes
+        link:
+        desc: speed
+
+      - item: Guitar player
+        link:
+        desc: resilience & patience
+
+      - item: Canyoning
+        link:
+        desc: risks control
+
+career-profile:
+    title: Something about me
+    summary: |
+      Computer Science engineer with more than 22 years of experience in Telecommunications technology, Software Development and Service Engineering world. 
+
+      Being a tech-driven, software-centric, and service engineering minded **Technical Leader**, I have a clear orientation towards Technology Leadership, Delivery Ownership, and Product Development. I consider myself a very proactive person, always looking for simplicity and resilience in all our features / capabilities that can avoid daily problems in our big scale platforms.
+
+      Strong technical background in architecting / automating and optimizing mission critical deployments over big data infrastructure. Share knowledge and experience in Architecture and DevOps areas.Proven management and coordination skills. Part of the Ericsson Leadership Development Program.
+
+      Working in the last years at Telefónica, a world leading telecommunication company with succesful mobile and fixed services, as Technical Leader and DevOps Architect. In my current position, our platform provides authentication, authorization, unified APIs and big data capabilities. Deployed in Azure with Kubernetes using AKS (some time ago in AWS with kops) we put together a wide range of technologies like Python + Terraform, traefik, kafka, PostgreSQL, kong, Prometheus, ElasticSearch, fluentd, fluent-bit, Kibana, Grafana or spark4k8s to achieve our goals.
+
+      **Top Experiences**: Platform Development & Engineering, Device Configuration, CS Core, Packet Core, High Performing teams leadership, Business Strategy Development, People Coaching and Management, Engineering Management, Security and Compliance, Tech Strategy and Methodologies.
+
+      **Tech Experience**: DevOps, Cloud, Data Engineering, Microservices, Event-driven Architectures, REST APIs, NGIN, IMS, Device Configuration (TR69).
+
+      **Domains Experience**: Telco and Retail.
+
+education:
+    - degree: Postgraduate Certificate in Education
+      university: Universidad de Valladolid
+      image: harvard.jpeg
+      time: 2003 - 2004
+      details: 
+    - degree: Master in development of Internet / Intranet Applications (Java – J2EE)
+      university: Alhambra-Eidos
+      image: iese.jpeg
+      time: 2002 - 2003
+      details:
+    - degree: Degree in Computer Science
+      university: Universidad de Valladolid
+      image: uc3m.png
+      time: 1996 - 2000
+      details: 
+    - degree: Graduate in Computer Science (Physical Systems)
+      university: Universidad de Valladolid
+      image: uc3m.png
+      time: 1992 - 1996
+      details:
+
+experiences:
+    - role: Lead Platform Engineering, Telefonica Kernel
+      time: Nov 2021 - Present
+      company: Telefonica
+      image: telefonica.png
+      details: |
+
+        Evolving the Telefonica Kernel Platform to the next-gen telco open architecture.
+          - Platform Architecture and Design. IaaC
+          - Continuous Integration development and support
+          - Continuous Delivery for integration environments
+          - Developers & QnA portals development and support
+          - Service Engineering in the production environments. Support Level 3. 
+          - Product development
+          - Engineering Leadership
+    - role: Lead Service Engineering, Telefonica Kernel
+      time: Nov 2018 - Nov 2021
+      company: Telefonica
+      image: telefonica.png
+      details: |
+
+        Working in the 4th platform (4P) as Service Engineering Lead, improving the observability and accountability.
+          - Multi cloud deployment
+          - Single point of view for cloud and service metrics
+          - Log systems in elastic big scale platforms
+          - Unified visibility for cloud and services logs
+          - Alarms based in anomaly detections
+          - Improve resilience in our Infrastructure as Code
+    - role: Operational Business Integration Technical Leader, Tuenti
+      time: Jan 2017 - Jul 2018
+      company: Telefonica
+      image: tuenti.png
+      details: |
+
+        Leading the services integration in the Operational Business of the company.
+          - VoIP Product development 
+          - Design and Development of NGIN integration services
+          - Integration plan development
+          - API design and validation
+          - Communications project leadership 
+    - role: Telco Engineering Team Leader, TUgo
+      time: Nov 2015 - Jan 2017
+      company: Telefonica
+      image: telefonica.png
+      details: |
+
+        Team Leader at TUgo (Telefónica) managing the Telco Engineering team providing voice and message services.
+          - Team responsability around the E2E deliverables life cycle, including QA, Deployment and Operation stages.
+          - Team activity around a set of Telco B2C products, consisting on Mobile apps and Backend sw.
+          - Technical reference and hands-on resource on complex operational issues or project blockers.
+          - Multi-location (Spain & Israel) project
+          - Implemented an Agile team way-of-working based on Scrum methodology
+          - Focus on people development for individual and collective profesional growth.
+    - role: Solution Architect
+      time: Oct 2010 - Nov 2015
+      company: Ericsson
+      image: ericsson.png
+      details: |
+
+        Lead Architect Engineer, CS/PS Core Multiactivation at Ericsson.
+          - E2E Project delivery from pre-sales to acceptance
+          - Areas of responsibility, Network Management, Service Assurance, Service Fulfillment
+          - Provisioning design towards the core nodes (HLR, FNR, AUC), the IMS nodes (DNS, HSS, PGM, BWAS, etc.) and the UDC nodes (CUDB, HLR-FE, HSS-FE, etc.)
+          - Ericsson Multi Activation (EMA)
+          - Automatic Device Configuration (ADC)
+          - Ericsson remote device management (ERDM)
+          - SF Telcordia and Conceptwave portfolio knowledge
+          - MARC (Modem Automatic Remote Configuration) system at Telefónica LATAM (ALU HNM5580 ACS TR069 integration with SIGRES).
+    - role: R&D Engineer
+      time: Sep 2007 - Sep 2010
+      company: Telefónica
+      image: telefonica.png
+      details: |
+
+        R&D Engineer for Telefonica CCDO (Future Comms Area) at the End Customer Device department.
+          - Analisys and evaluation of remote configuration capabilities in new lan line modem prototipes for integration in Telefonica's broadband service
+          - Design and development of end-to-end technical solution for the automatic remote configuration
+          - Product leadership at Telefónica LATAM (Chile, Argentina, Peru, Colombia and Brasil)
+          - Lead development and deployment of internal projects and POCs.
+    - role: Project Leader
+      time: Jan 2000 - Sep 2007
+      company: GFI Informática
+      image: telefonica.png
+      details: |
+
+        Providing solution design, development, integration, testing and Life Cycle Management in the Final User Applications department of Telefónica I+D.
+          - Lead and implement multiple proofs of concept finally converted in products
+          - Technology prospection in the device remote configuration domain
+          - Working in different patents based in the proofs of concept
+          - Technology evangelist inside the company, teacher and speaker in different events across the world
+    - role: Project Leader
+      time: Jan 1999 - Jan 2000
+      company: Telefónica Research & Development
+      image: telefonica.png
+      details: |
+        
+        Technical leader for small fleets. Full software lifecycle management in the vehicle tracking solutions.
+          - Integration of GIS systems in our platform
+          - Performance optimization for the database integration
+          - Full architecture refactorization of the small fleets product
+          - Provide automatized process for the release management of the product: QA & Integration
+          - Interfaz definition for the communication with on boarding devices
+          - Development of the next-gen of product gui
+    - role: Software Engineer
+      time: Jan 1998 - Jan 1999
+      company: Indra SCA
+      image: telefonica.png
+      details: |        
+
+        Development and deployment of applications at the traffic and toll control department.
+          - Design of anti cheating toll algorithm
+          - Deployment of toll central control in several highways in China
+          - Development of toll line management application
+          - Data acquisition board design and development for control toll lane devices
+          - Embedded toll lane controller development 
+          - Internal and external training courses
+    - role: Software Engineer
+      time: Mar 1997 - Jan 1998
+      company: Visual Tools
+      image: telefonica.png
+      details: |        
+
+        Responsible for providing development and deployment of applications at the signal analysis application development department.
+          - Algorithm design for signal analysis in railway maintenance
+          - Small developments for embedded video surveillance applications
+    - role: Software Engineer
+      time: Mar 1996 - Jun 1996
+      company: Tensa S.A.
+      image: telefonica.png
+      details: |        
+
+        Design, develop and deploy billing application for eletric company.
+    - role: Teacher
+      time: Jan 1995 - Dec 1995
+      company: A.C.U.P.
+      image: telefonica.png
+      details: |        
+
+        Teacher in several courses about technical subjects: C, C++, Visual Basic and Wordperfect.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    
