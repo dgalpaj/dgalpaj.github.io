@@ -75,30 +75,30 @@ career-profile:
 education:
     - degree: Postgraduate Certificate in Education
       university: Universidad de Valladolid
-      image: harvard.jpeg
+      image: uva.jpg
       time: 2003 - 2004
       details: 
     - degree: Master in development of Internet / Intranet Applications (Java – J2EE)
       university: Alhambra-Eidos
-      image: iese.jpeg
+      image: eidos.jpg
       time: 2002 - 2003
       details:
     - degree: Degree in Computer Science
       university: Universidad de Valladolid
-      image: uc3m.png
+      image: uva.jpg
       time: 1996 - 2000
       details: 
     - degree: Graduate in Computer Science (Physical Systems)
       university: Universidad de Valladolid
-      image: uc3m.png
+      image: uva.jpg
       time: 1992 - 1996
       details:
 
 experiences:
-    - role: Lead Platform Engineering, Telefonica Kernel
+    - role: **Lead Platform Engineering**, Telefonica Kernel
       time: Nov 2021 - Present
       company: Telefonica
-      image: telefonica.png
+      image: tef.jpg
       details: |
 
         Evolving the Telefonica Kernel Platform to the next-gen telco open architecture.
@@ -112,7 +112,7 @@ experiences:
     - role: Lead Service Engineering, Telefonica Kernel
       time: Nov 2018 - Nov 2021
       company: Telefonica
-      image: telefonica.png
+      image: tef.jpg
       details: |
 
         Working in the 4th platform (4P) as Service Engineering Lead, improving the observability and accountability.
@@ -137,7 +137,7 @@ experiences:
     - role: Telco Engineering Team Leader, TUgo
       time: Nov 2015 - Jan 2017
       company: Telefonica
-      image: telefonica.png
+      image: tef.jpg
       details: |
 
         Team Leader at TUgo (Telefónica) managing the Telco Engineering team providing voice and message services.
@@ -150,7 +150,7 @@ experiences:
     - role: Solution Architect
       time: Oct 2010 - Nov 2015
       company: Ericsson
-      image: ericsson.png
+      image: ericsson.jpg
       details: |
 
         Lead Architect Engineer, CS/PS Core Multiactivation at Ericsson.
@@ -165,7 +165,7 @@ experiences:
     - role: R&D Engineer
       time: Sep 2007 - Sep 2010
       company: Telefónica
-      image: telefonica.png
+      image: tef.jpg
       details: |
 
         R&D Engineer for Telefonica CCDO (Future Comms Area) at the End Customer Device department.
@@ -176,7 +176,7 @@ experiences:
     - role: Project Leader
       time: Jan 2000 - Sep 2007
       company: GFI Informática
-      image: telefonica.png
+      image: gfi.jpg
       details: |
 
         Providing solution design, development, integration, testing and Life Cycle Management in the Final User Applications department of Telefónica I+D.
@@ -186,8 +186,8 @@ experiences:
           - Technology evangelist inside the company, teacher and speaker in different events across the world
     - role: Project Leader
       time: Jan 1999 - Jan 2000
-      company: Telefónica Research & Development
-      image: telefonica.png
+      company: GMV S.A.
+      image: gmv.jpg
       details: |
         
         Technical leader for small fleets. Full software lifecycle management in the vehicle tracking solutions.
@@ -200,7 +200,7 @@ experiences:
     - role: Software Engineer
       time: Jan 1998 - Jan 1999
       company: Indra SCA
-      image: telefonica.png
+      image: indra.png
       details: |        
 
         Development and deployment of applications at the traffic and toll control department.
@@ -213,7 +213,7 @@ experiences:
     - role: Software Engineer
       time: Mar 1997 - Jan 1998
       company: Visual Tools
-      image: telefonica.png
+      image: vt.jpg
       details: |        
 
         Responsible for providing development and deployment of applications at the signal analysis application development department.
@@ -222,14 +222,14 @@ experiences:
     - role: Software Engineer
       time: Mar 1996 - Jun 1996
       company: Tensa S.A.
-      image: telefonica.png
+      image: tensa.jpg
       details: |        
 
         Design, develop and deploy billing application for eletric company.
     - role: Teacher
       time: Jan 1995 - Dec 1995
       company: A.C.U.P.
-      image: telefonica.png
+      image: acup.jpg
       details: |        
 
         Teacher in several courses about technical subjects: C, C++, Visual Basic and Wordperfect.
