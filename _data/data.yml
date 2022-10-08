@@ -238,7 +238,7 @@ projects:
     title: Projects
     intro: >
       I have taken part in a wide range of projects in different domains during my long professional career. Here you can find those of them which I feel really proud as top experiences level me up as professional.    assignments:
-      
+    assignments:
       - title: Telefonica Kernel
         link: "https://www.youtube.com/watch?v=0I0i9gVUVGg"
         tagline: "The cross platform of Telefonica which provide authentication, authorization, unified APIs and the algorithm execution environment to generate value for our customer's data."
