@@ -263,6 +263,14 @@ projects:
         link: "https://www.gmv.com/en/products/space/fleet-family-products"
         tagline: "Small fleets management products, focused in police and public maintenance departments. Central console and embedded software in the remote units."
 
+      - title: Indra
+        link: "https://www.indracompany.com/en/tolling"
+        tagline: "Toll solutions with automatic vehicle detection for anti cheating purpose. Central console and embedded software in the toll lanes."
+
+      - title: Visual Tools
+        link: "https://manualzz.com/doc/27504086/vs-dvr---visual-tools"
+        tagline: "Video surveillance products. Embedded video recorders and transmiters for security applications."
+
 publications:
     title: Publications
     intro: |
