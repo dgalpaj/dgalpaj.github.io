@@ -259,15 +259,15 @@ projects:
         link: "https://www.geeknetic.es/Guia/2321/Portal-Alejandra-Como-configurar-tu-router-Movistar.html"
         tagline: "TR069 ecosystem full development for the ADSL and FTTH Telefonica's network."
 
-      - title: GMV
-        link: "https://www.gmv.com/en/products/space/fleet-family-products"
+      - title: ITS
+        link: "https://www.gmv.com/en/sectors/intelligent-transportation-systems"
         tagline: "Small fleets management products, focused in police and public maintenance departments. Central console and embedded software in the remote units."
 
-      - title: Indra
+      - title: Free Flow Gate
         link: "https://www.indracompany.com/en/tolling"
         tagline: "Toll solutions with automatic vehicle detection for anti cheating purpose. Central console and embedded software in the toll lanes."
 
-      - title: Visual Tools
+      - title: VS-DVR
         link: "https://manualzz.com/doc/27504086/vs-dvr---visual-tools"
         tagline: "Video surveillance products. Embedded video recorders and transmiters for security applications."
 
