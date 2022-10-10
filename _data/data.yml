@@ -274,46 +274,86 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below, you can find several articles and patents I have produced during my professional career.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Nuevos terminales de acceso a Internet para pymes.  
+        link: "https://dialnet.unirioja.es/servlet/articulo?codigo=2407418"
+        authors: Pablo Dávila, David Gallegos and Inmaculada Ferrero.
+        conference: Comunicaciones I+D. Publicaciones Telefónica. 2004.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: New Self-* Paradigms for Managing Customer Networks.
+        link: "https://ieeexplore.ieee.org/document/4746604"
+        authors: Valentín Alonso, Miguel A. Fernández, Pablo Dávila, David Gallegos, Antonio Castillo, Enrique Paniego.
+        conference: IEEE Globecom 2008, Distributed Autonomous Network Management Systems.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Plataforma ACS. Telefónica Latinoamérica comienza el despliegue con Telefónica Chile para extender la gestión remota a la red de cliente.
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: David Gallegos.
+        conference: Diario de Telefónica. 2009.
+
+      - title: Home Network Topology Manager.
+        link: "#"
+        authors: Valentín Alonso, David Gallegos, Eduardo Rodríguez and Pablo Davila.
+        conference: Telefónica I+D Patent Office. 2009.
+
+      - title: Bluetooth service extensor for home networks.
+        link: "#"
+        authors: David Gallegos.
+        conference: Telefónica I+D Patent Office. 2009.
+
+      - title: Using WiFi calling in Handsets with dual-sims.
+        link: "#"
+        authors: Jorge Serna, John Neystadt, David Gallegos.
+        conference: Telefónica I+D Patent Office. 2016.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C++
+        level: 84%
+
+      - name: Java
+        level: 75%
+
+      - name: Python
+        level: 60%
+
+      - name: Bash
+        level: 92%
+
+      - name: Azure
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Kubernetes
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Terraform
+        level: 68%
+
+      - name: Ansible
+        level: 72%
+
+      - name: ELK
+        level: 85%
+
+      - name: Prometheus & Grafana
+        level: 88%
+
+      - name: IMS
+        level: 81%
+
+      - name: CS core
+        level: 76%
+
+      - name: PS core
+        level: 84%
+
+      - name: Agile
+        level: 78%
 
 footer: >
     
