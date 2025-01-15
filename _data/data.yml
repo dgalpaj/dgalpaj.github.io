@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: Something about me
     summary: |
-      Computer Science engineer with more than 22 years of experience in Telecommunications technology, Software Development and Service Engineering world. 
+      Computer Science engineer with more than 25 years of experience in Telecommunications technology, Software Development and Service Engineering world. 
 
       Being a tech-driven, software-centric, and service engineering minded **Technical Leader**, I have a clear orientation towards Technology Leadership, Delivery Ownership, and Product Development. I consider myself a very proactive person, always looking for simplicity and resilience in all our features / capabilities that can avoid daily problems in our big scale platforms.
 
@@ -95,8 +95,16 @@ education:
       details:
 
 experiences:
+    - role: Platform Technical Lead, Telefonica Kernel
+      time: Sep 2023 - Present
+      company: Telefonica
+      image: tef.jpg
+      details: |
+
+        Technical Lead of the Platform Team at Telefónica Kernel as base of OpenGateway Initiative
+        https://www.gsma.com/solutions-and-impact/gsma-open-gateway/
     - role: Lead Platform Engineering, Telefonica Kernel
-      time: Nov 2021 - Present
+      time: Nov 2021 - Sep 2023
       company: Telefonica
       image: tef.jpg
       details: |
