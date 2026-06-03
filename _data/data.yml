@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: David Gallegos Pajares
     tagline: Technological Ninja
-    avatar: user-profile-pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: user-profile-pic-1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: dgalpaj@gmail.com
@@ -58,19 +58,19 @@ sidebar:
 career-profile:
     title: Something about me
     summary: |
-      Computer Science engineer with more than 25 years of experience in Telecommunications technology, Software Development and Service Engineering world. 
+      Computer Science engineer with more than 28 years of experience spanning Telecommunications, Software Development, Service Engineering, Platform Leadership, and now Technical Compliance in the FinTech space.
 
-      Being a tech-driven, software-centric, and service engineering minded **Technical Leader**, I have a clear orientation towards Technology Leadership, Delivery Ownership, and Product Development. I consider myself a very proactive person, always looking for simplicity and resilience in all our features / capabilities that can avoid daily problems in our big scale platforms.
+      A tech-driven, software-centric **Technical Leader** evolving into Security & Compliance, I bridge engineering and governance — translating technical realities into compliant, resilient systems. Currently serving as **Technical Compliance Manager at Securitize**, the leading digital securities infrastructure company, I act as the operational bridge between the CISO organization, Internal Audit / Risk, and Product & Engineering teams, owning the compliance posture for SOC 2, DORA, and ISO certifications.
 
-      Strong technical background in architecting / automating and optimizing mission critical deployments over big data infrastructure. Share knowledge and experience in Architecture and DevOps areas.Proven management and coordination skills. Part of the Ericsson Leadership Development Program.
+      Previous experience as **Platform Technical Lead** at Telefónica Innovación Digital — building the cloud-native infrastructure for the GSMA Open Gateway initiative — gave me deep expertise in large-scale IaC, CI/CD, and engineering leadership across distributed teams.
 
-      Working in the last years at Telefónica, a world leading telecommunication company with succesful mobile and fixed services, as Technical Leader and DevOps Architect. In my current position, our platform provides authentication, authorization, unified APIs and big data capabilities. Deployed in Azure with Kubernetes using AKS (some time ago in AWS with kops) we put together a wide range of technologies like Python + Terraform, traefik, kafka, PostgreSQL, kong, Prometheus, ElasticSearch, fluentd, fluent-bit, Kibana, Grafana or spark4k8s to achieve our goals.
+      Strong technical background in architecting, automating and optimizing mission-critical deployments over cloud infrastructure. Proven management, coordination and people development skills. Part of the Ericsson Leadership Development Program.
 
-      **Top Experiences**: Platform Development & Engineering, Device Configuration, CS Core, Packet Core, High Performing teams leadership, Business Strategy Development, People Coaching and Management, Engineering Management, Security and Compliance, Tech Strategy and Methodologies.
+      **Top Experiences**: Technical Compliance & GRC, Security Posture (SOC 2, DORA, ISO), Platform Development & Engineering, DevOps & Cloud Architecture, CS/PS Core, High Performing Teams Leadership, Engineering Management, Tech Strategy.
 
-      **Tech Experience**: DevOps, Cloud, Data Engineering, Microservices, Event-driven Architectures, REST APIs, NGIN, IMS, Device Configuration (TR69).
+      **Tech Experience**: GRC Tooling, DevOps, Cloud (Azure/AWS), Kubernetes, Terraform, Data Engineering, Microservices, Event-driven Architectures, REST APIs, IMS, NGIN, Device Configuration (TR69).
 
-      **Domains Experience**: Telco, Toll, Fleet Management and Video Surveillance.
+      **Domains Experience**: FinTech, Real-World Asset Tokenization, Telco, Toll, Fleet Management and Video Surveillance.
 
 education:
     - degree: Postgraduate Certificate in Education
@@ -95,8 +95,19 @@ education:
       details:
 
 experiences:
+    - role: Technical Compliance Manager
+      time: Mar 2026 - Present
+      company: Securitize
+      image: securitize.png
+      details: |
+
+        Serving as the operational bridge between the CISO organization (security direction and policy), Internal Audit / Risk (including external auditor interfaces), and Product & Engineering teams.
+          - Owning the continuous assessment and execution of technical compliance policies and procedures.
+          - Leveraging the company's GRC tooling to maintain a strong compliance posture for SOC 2, DORA, and potential ISO certifications.
+          - Acting as the formal local point of contact for the Spanish entity on DORA-related matters, interfacing with local (Spain) and EU stakeholders and regulators, in close coordination with the US-based CISO and CTO.
+          - Enabling responsible innovation in real-world asset tokenization with a strong emphasis on impact, excellence, and strategic vision.
     - role: Platform Technical Lead, Telefonica Kernel
-      time: Sep 2023 - Present
+      time: Sep 2023 - Feb 2026
       company: Telefonica
       image: tef.jpg
       details: |
