@@ -95,25 +95,27 @@ education:
       details:
 
 experiences:
-    - role: Technical Compliance Manager (Global)
-            CTO Securitize Europe Brokerage & Markets, S.V., S.A.
-      time: Mar 2026 - Present
-      company: Securitize
+    - role: CTO
+      time: Jun 2026 - Present
+      company: Securitize Europe Brokerage and Markets, S.V., S.A.
       image: securitize.png
       details: |
 
-        Dual role across the Securitize group and its EU investment firm, which is authorised by the CNMV and operates a DLT trading and settlement system under the EU DLT Pilot Regime.
-
-        Global – Technical Compliance Manager
-          - Serving as the operational bridge between the CISO organization (security direction and policy), Internal Audit / Risk (including external auditor interfaces), and Product & Engineering teams.
-          - Owning the continuous assessment and execution of technical compliance policies and procedures.
-          - Leveraging the company's GRC tooling to maintain a strong compliance posture for SOC 2, DORA, and potential ISO certifications.
-
-        Europe – CTO, Securitize Europe Brokerage & Markets (SEBM)
+        Technology lead of Securitize's EU investment firm, authorised by the CNMV and operating a DLT trading and settlement system under the EU DLT Pilot Regime.
           - Owning SEBM's technology as first line of defence: availability, change and release, backup and recovery, and day-to-day ICT vendor operations.
           - Managing the ICT services delivered to SEBM by the Securitize group under the intra-group agreement, coordinating the DevOps (Israel) and development (Argentina) teams.
           - Leading the execution of business continuity and disaster recovery testing for the trading and settlement system and the DS Protocol.
           - Voting member of SEBM's ICT Risk and Security Committee and local point of contact on DORA matters, working with Spanish and EU regulators in close coordination with the US-based CISO and CTO.
+
+    - role: Technical Compliance Manager
+      time: Mar 2026 - Present
+      company: Securitize Corp.
+      image: securitize.png
+      details: |
+
+        Serving as the operational bridge between the CISO organization (security direction and policy), Internal Audit / Risk (including external auditor interfaces), and Product and Engineering teams.
+          - Owning the continuous assessment and execution of technical compliance policies and procedures.
+          - Leveraging the company's GRC tooling to maintain a strong compliance posture for SOC 2, DORA, and potential ISO certifications.
           - Enabling responsible innovation in real-world asset tokenization with a strong emphasis on impact, excellence, and strategic vision.
     - role: Platform Technical Lead, Telefonica Kernel
       time: Sep 2023 - Feb 2026
